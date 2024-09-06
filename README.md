@@ -27,7 +27,7 @@ O público alvo desse documento são pessoas trans que nasceram e moraram sempre
 ### Como obter cada documento
 - Obtenha a segunda via da Certidão de Nascimento [aqui](https://www.registrocivil.org.br/#/usuario/loginEntrar/862930/)
 	- Você vai precisar dos dados do registro, que são encontrados na certidão de nascimento (é necessário ter esses dados, ou talvez ir no cartório de registro procurá-los)
-	- A segunda via deveria ser [gratuita](https://www.gov.br/pt-br/noticias/assistencia-social/2021/11/emissao-gratuita-da-certidao-de-nascimento-e-garantida-por-lei-federal)
+	- A emissão da segunda via da Certidão de Nascimento é paga.
 - É necessário ter um RG atualizado, solicite [aqui](https://www.poupatempo.sp.gov.br/carta/C99D58CC-0FD8-4605-AF64-A18847FB13FE)
 - Confira o CPF [aqui](https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPublica.asp)
 - Obtenha a segunda via do título de eleitor [aqui](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/atendimento-eleitor)
